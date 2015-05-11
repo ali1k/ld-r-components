@@ -1,6 +1,6 @@
 {
   "name": "ld-reactor-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A set of useful components for LD-Reactor",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/ali1k/ld-reactor-components#readme",
   "dependencies": {
     "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.2.17"
   }
 }
