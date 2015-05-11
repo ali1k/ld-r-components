@@ -1,4 +1,4 @@
-export default {
+module.exports = {
     list: [
         {'code': 'ab', 'name': 'Abkhaz', 'nativeName': 'аҧсуа'},
         {'code': 'aa', 'name': 'Afar', 'nativeName': 'Afaraf'},
