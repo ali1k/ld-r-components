@@ -9,5 +9,5 @@ module.exports = {
     LanguageView: require('./lib/LanguageView'),
     TwoLetterCountryView: require('./lib/TwoLetterCountryView'),
     FileSizeView: require('./lib/FileSizeView'),
-    FileSizelInput: require('./lib/FileSizelInput')
+    FileSizeInput: require('./lib/FileSizeInput')
 };
