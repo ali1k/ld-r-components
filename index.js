@@ -7,5 +7,7 @@
 module.exports = {
     LanguageInput: require('./lib/LanguageInput'),
     LanguageView: require('./lib/LanguageView'),
-    TwoLetterCountryView: require('./lib/TwoLetterCountryView')
+    TwoLetterCountryView: require('./lib/TwoLetterCountryView'),
+    FileSizeView: require('./lib/FileSizeView'),
+    FileSizelInput: require('./lib/FileSizelInput')
 };
