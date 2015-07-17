@@ -5,6 +5,6 @@
 'use strict';
 
 module.exports = {
-    LanguageInput: require('./components/LanguageInput'),
-    LanguageView: require('./components/LanguageView')
+    LanguageInput: require('./lib/LanguageInput'),
+    LanguageView: require('./lib/LanguageView')
 };

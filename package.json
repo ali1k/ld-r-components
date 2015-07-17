@@ -1,14 +1,14 @@
 {
-  "name": "ld-reactor-components",
-  "version": "1.0.3",
-  "description": "A set of useful components for LD-Reactor",
+  "name": "ld-r-components",
+  "version": "1.0.4",
+  "description": "A set of useful components for Linked Data Reactor (http://ld-r.org)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ali1k/ld-reactor-components.git"
+    "url": "git+https://github.com/ali1k/ld-r-components.git"
   },
   "keywords": [
     "ReactJS",
@@ -19,13 +19,12 @@
   "author": "Ali Khalili <hyperir@gmail.com> (http://ali1k.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ali1k/ld-reactor-components/issues"
+    "url": "https://github.com/ali1k/ld-r-components/issues"
   },
-  "homepage": "https://github.com/ali1k/ld-reactor-components#readme",
-  "dependencies": {
-    "react": "^0.13.3"
-  },
+  "homepage": "https://github.com/ali1k/ld-r-components#readme",
+  "dependencies": {},
   "devDependencies": {
-    "babel": "^5.2.17"
+    "babel": "^5.6.23",
+    "react": "^0.13.3"
   }
 }
