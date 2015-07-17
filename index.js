@@ -5,7 +5,6 @@
 'use strict';
 
 module.exports = {
-    BasicIndividualInput: require('./lib/basics/BasicIndividualInput'),
     LanguageInput: require('./lib/LanguageInput'),
     LanguageView: require('./lib/LanguageView'),
     TwoLetterCountryView: require('./lib/TwoLetterCountryView'),
