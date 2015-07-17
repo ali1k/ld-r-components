@@ -5,10 +5,5 @@
 'use strict';
 
 module.exports = {
-    LanguageInput: require('./lib/LanguageInput'),
-    LanguageView: require('./lib/LanguageView'),
-    TwoLetterCountryView: require('./lib/TwoLetterCountryView'),
-    FileSizeView: require('./lib/FileSizeView'),
-    FileSizeInput: require('./lib/FileSizeInput'),
-    MediaTypeInput: require('./lib/MediaTypeInput')
+    BasicIndividualInput: require('./lib/basics/BasicIndividualInput')
 };
