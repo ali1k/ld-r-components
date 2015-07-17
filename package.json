@@ -1,7 +1,7 @@
 {
   "name": "ld-r-components",
-  "version": "1.0.9",
-  "description": "A set of useful components for Linked Data Reactor (http://ld-r.org)",
+  "version": "1.0.10",
+  "description": "A set of basic and useful components for Linked Data Reactor (http://ld-r.org)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
