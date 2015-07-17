@@ -6,5 +6,6 @@
 
 module.exports = {
     LanguageInput: require('./lib/LanguageInput'),
-    LanguageView: require('./lib/LanguageView')
+    LanguageView: require('./lib/LanguageView'),
+    TwoLetterCountryView: require('./lib/TwoLetterCountryView')
 };
