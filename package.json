@@ -1,6 +1,6 @@
 {
   "name": "ld-r-components",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A set of basic and useful components for Linked Data Reactor (http://ld-r.org)",
   "main": "index.js",
   "scripts": {
